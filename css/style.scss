@@ -278,7 +278,7 @@ a:focus {
     margin: 7px 0;
     transition: all 0.3s;
     position: relative;
-    border-radius: 5px;
+    border-radius: 32px;
     transition: all 0.3s;
 
     &::before,
@@ -290,7 +290,7 @@ a:focus {
       width: 100%;
       background-color: $white;
       top: -10px;
-      border-radius: 5px;
+      border-radius: 32px;
       transition: all 0.3s;
     }
 
@@ -397,7 +397,7 @@ a:focus {
     display: flex;
     align-items: center;
     margin-top: 45px;
-    border-radius: 5px;
+    border-radius: 32px;
     padding: 20px 15px;
     background-color: $primary2;
     color: $white;
@@ -494,9 +494,9 @@ a:focus {
     position: relative;
     margin-top: 25px;
     background-color: $white;
-    border-radius: 10px;
+    border-radius: 32px;
     color: $white;
-    border-radius: 15px;
+    border-radius: 32px;
     overflow: hidden;
     background: linear-gradient(to bottom, #f1f2f3 25px, $primary2 25px);
 
@@ -633,7 +633,7 @@ a:focus {
       border: 1px solid #999;
       outline: none;
       color: $black;
-      border-radius: 5px;
+      border-radius: 32px;
       outline: none;
       box-shadow: none;
 
@@ -659,7 +659,7 @@ a:focus {
   .map_container {
     width: 100%;
     height: 345px;
-    border-radius: 10px;
+    border-radius: 32px;
     overflow: hidden;
 
     #googleMap {
@@ -717,7 +717,7 @@ a:focus {
       background-color: $primary2;
       color: $white;
       padding: 25px 25px 15px 25px;
-      border-radius: 5px;
+      border-radius: 32px;
 
       h6 {
         font-weight: 600;
@@ -779,7 +779,7 @@ a:focus {
       border: 1px solid #ccc;
       outline: none;
       color: $black;
-      border-radius: 5px;
+      border-radius: 32px;
 
       &::placeholder {
         color: #222222;
@@ -787,7 +787,7 @@ a:focus {
 
       &.message-box {
         height: 120px;
-        border-radius: 5px;
+        border-radius: 32px;
       }
     }
 

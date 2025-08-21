@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geo:ital@0;1&display=swap");
 body {
   font-family: "Open Sans", sans-serif;
   color: #0c0c0c;
@@ -32,7 +32,7 @@ body {
 
 h1,
 h2 {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Geo", sans-serif;
 }
 
 .heading_container {
@@ -148,7 +148,7 @@ a:focus {
 }
 
 .navbar-brand {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Geo", sans-serif;
 }
 
 .navbar-brand span {
@@ -356,7 +356,7 @@ a:focus {
   padding: 10px 45px;
   background-color: #FF6F00;
   color: #ffffff;
-  border-radius: 45px;
+  border-radius: 32px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -409,7 +409,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 45px;
-  border-radius: 5px;
+  border-radius: 32px;
   padding: 20px 15px;
   background-color: #222831;
   color: #ffffff;
@@ -435,13 +435,13 @@ a:focus {
 }
 
 .offer_section .box .detail-box h5 {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Geo", sans-serif;
   font-size: 24px;
   margin: 0;
 }
 
 .offer_section .box .detail-box h6 {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Geo", sans-serif;
   margin: 10px 0;
 }
 
@@ -914,7 +914,7 @@ a:focus {
 .footer_section .footer-logo {
   font-weight: 600;
   margin-bottom: 20px;
-  font-family: 'Dancing Script', cursive;
+  font-family: "Geo", sans-serif;
 }
 
 .footer_section p {
